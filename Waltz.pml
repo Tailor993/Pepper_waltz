@@ -17,11 +17,16 @@
         <File name="waltz" src="boxlibraries/waltz.cbl" />
         <File name="turn_left_backword" src="behavior_1/steps/turn_left_backword.pmt" />
         <File name="turn_right_forwar" src="behavior_1/steps/turn_right_forwar.pmt" />
+        <File name="ANDRE_RIEU_-_THE_BLUE_DANUBE_WALTZ_-_HQ-856X480_.ogg" src="music/ANDRE_RIEU_-_THE_BLUE_DANUBE_WALTZ_-_HQ-856X480_.ogg.sfk" />
+        <File name="vagott-ANDRE_RIEU-THE_BLUE_DANUBE_WALTZ_-_HQ-856X480_" src="music/vagott-ANDRE_RIEU-THE_BLUE_DANUBE_WALTZ_-_HQ-856X480_.ogg" />
+        <File name="vagott-ANDRE_RIEU-THE_BLUE_DANUBE_WALTZ_-_HQ-856X480_.ogg" src="music/vagott-ANDRE_RIEU-THE_BLUE_DANUBE_WALTZ_-_HQ-856X480_.ogg.sfl" />
+        <File name="Egyebek" src="boxlibraries/Egyebek.cbl" />
+        <File name="hand_in_hand_chachacha" src="chachacha/hand_in_hand_chachacha.pmt" />
+        <File name="chachachabasic" src="chachacha/chachachabasic.pmt" />
+        <File name="chachacha" src="boxlibraries/chachacha.cbl" />
     </Resources>
     <Topics />
-    <IgnoredPaths>
-        <Path src="New Folder" />
-    </IgnoredPaths>
+    <IgnoredPaths />
     <Translations auto-fill="en_US">
         <Translation name="translation_en_US" src="translations/translation_en_US.ts" language="en_US" />
     </Translations>
