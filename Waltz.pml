@@ -24,6 +24,10 @@
         <File name="hand_in_hand_chachacha" src="chachacha/hand_in_hand_chachacha.pmt" />
         <File name="chachachabasic" src="chachacha/chachachabasic.pmt" />
         <File name="chachacha" src="boxlibraries/chachacha.cbl" />
+        <File name="tango basic" src="tango basic.pmt" />
+        <File name="chachachabasic" src="behavior_1/chachacha/chachachabasic.pmt" />
+        <File name="hand_in_hand_chachacha" src="behavior_1/chachacha/hand_in_hand_chachacha.pmt" />
+        <File name="ok" src="ok.csv" />
     </Resources>
     <Topics />
     <IgnoredPaths />
