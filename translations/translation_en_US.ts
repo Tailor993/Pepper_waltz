@@ -57,4 +57,71 @@
             <translation type="unfinished">You tried too much!</translation>
         </message>
     </context>
+    <context>
+        <name>behavior_1/behavior.xar:/Tancol/chachacha/chachacha basic step/Say</name>
+        <message>
+            <source>Hello</source>
+            <comment>Text</comment>
+            <translation type="vanished">Hello</translation>
+        </message>
+        <message>
+            <location filename="behavior_1/behavior.xar" line="0"/>
+            <source>Ops. I don't have enough space.</source>
+            <comment>Text</comment>
+            <translation type="unfinished">Ops. I don't have enough space.</translation>
+        </message>
+    </context>
+    <context>
+        <name>behavior_1/behavior.xar:/Tancol/chachacha/hand in hand (1)/Say</name>
+        <message>
+            <location filename="behavior_1/behavior.xar" line="0"/>
+            <source>Ops. I don't have enough space.</source>
+            <comment>Text</comment>
+            <translation type="unfinished">Ops. I don't have enough space.</translation>
+        </message>
+    </context>
+    <context>
+        <name>behavior_1/behavior.xar:/Tancol/chachacha/hand in hand/Say</name>
+        <message>
+            <location filename="behavior_1/behavior.xar" line="0"/>
+            <source>Ops. I don't have enough space.</source>
+            <comment>Text</comment>
+            <translation type="unfinished">Ops. I don't have enough space.</translation>
+        </message>
+    </context>
+    <context>
+        <name>behavior_1/behavior.xar:/Tancol/tango basic/Say</name>
+        <message>
+            <location filename="behavior_1/behavior.xar" line="0"/>
+            <source>Ops. I don't have enough space.</source>
+            <comment>Text</comment>
+            <translation type="unfinished">Ops. I don't have enough space.</translation>
+        </message>
+    </context>
+    <context>
+        <name>behavior_1/behavior.xar:/Tancol/waltz/full_right_turn_forward (1)/half_right_turn_forward/Say</name>
+        <message>
+            <location filename="behavior_1/behavior.xar" line="0"/>
+            <source>Ops. I don't have enough space.</source>
+            <comment>Text</comment>
+            <translation type="unfinished">Ops. I don't have enough space.</translation>
+        </message>
+    </context>
+    <context>
+        <name>behavior_1/behavior.xar:/Tancol/waltz/full_right_turn_forward/half_right_turn_forward/Say</name>
+        <message>
+            <location filename="behavior_1/behavior.xar" line="0"/>
+            <source>Ops. I don't have enough space.</source>
+            <comment>Text</comment>
+            <translation type="unfinished">Ops. I don't have enough space.</translation>
+        </message>
+    </context>
+    <context>
+        <name>behavior_1/behavior.xar:/tangó/Say</name>
+        <message>
+            <source>Hello</source>
+            <comment>Text</comment>
+            <translation type="vanished">Hello</translation>
+        </message>
+    </context>
 </TS>

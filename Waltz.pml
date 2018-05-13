@@ -28,9 +28,13 @@
         <File name="chachachabasic" src="behavior_1/chachacha/chachachabasic.pmt" />
         <File name="hand_in_hand_chachacha" src="behavior_1/chachacha/hand_in_hand_chachacha.pmt" />
         <File name="ok" src="ok.csv" />
+        <File name="keringő" src="keringő.pmt" />
+        <File name="teszt" src="teszt.pmt" />
     </Resources>
     <Topics />
-    <IgnoredPaths />
+    <IgnoredPaths>
+        <Path src=".keringő.pmt.1260.csp" />
+    </IgnoredPaths>
     <Translations auto-fill="en_US">
         <Translation name="translation_en_US" src="translations/translation_en_US.ts" language="en_US" />
     </Translations>
