@@ -30,11 +30,10 @@
         <File name="ok" src="ok.csv" />
         <File name="keringő" src="keringő.pmt" />
         <File name="teszt" src="teszt.pmt" />
+        <File name="Tánc lépés kitaláló program" src="Tánc lépés kitaláló program.docx" />
     </Resources>
     <Topics />
-    <IgnoredPaths>
-        <Path src=".keringő.pmt.1260.csp" />
-    </IgnoredPaths>
+    <IgnoredPaths />
     <Translations auto-fill="en_US">
         <Translation name="translation_en_US" src="translations/translation_en_US.ts" language="en_US" />
     </Translations>
