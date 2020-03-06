@@ -1,4 +1,4 @@
-# Pepper_waltz project
+# Pepper waltz project
 ## Description
 This is a semester homework assignment at [Óbuda University - Alba Regia Technical Faculty](http://www.amk.uni-obuda.hu/index.php/en). In this assignment We need to creat some application, which is controlling [Softbank Robotics - Pepper Robot](https://www.softbankrobotics.com/emea/en/pepper). 
 
