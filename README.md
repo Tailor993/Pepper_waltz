@@ -9,12 +9,15 @@ The robot is owned by the [Alba Innovár](https://albainnovar.hu/eng) thank you 
 
 ## Contributors:
 
-##### Szabó Attila
+#### Horváth Adrián
+* [GitHub](https://github.com/adrianhorvath23/)
+
+#### Szabó Attila
 * [LinkedIn](https://www.linkedin.com/in/tailor993/)
 * [GitHub](https://github.com/Tailor993)
 * [Facebook](https://www.facebook.com/tailor1993)
 * [Web Page for my Self-employment](https://www.tailor993.hu)
 * [Company which is made by me and my friends](https://fejlesztech.hu)
 
-##### Urbány Gergely
+#### Urbány Gergely
 * [GitHub](https://github.com/MetalG93)
