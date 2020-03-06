@@ -15,3 +15,6 @@ The robot is owned by the [Alba Innovár](https://albainnovar.hu/eng) thank you 
 * [Facebook](https://www.facebook.com/tailor1993)
 * [Web Page for my Self-employment](https://www.tailor993.hu)
 * [Company which is made by me and my friends](https://fejlesztech.hu)
+
+##### Urbány Gergely
+* [GitHub](https://github.com/MetalG93)
